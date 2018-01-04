@@ -4,7 +4,7 @@ const cssnext = require('postcss-cssnext');
 
 
 module.exports = function(content, file, settings){
-    console.log('content',content);
+    //console.log('content',content);
     // postcss([cssnext({browsers:settings.Browserslist})]).process(content,{inline:false}).then(data=>{
     //     console.log(data.css);
     // })
