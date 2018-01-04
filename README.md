@@ -4,7 +4,7 @@ fis3插件 postcss  cssnext
 fis3 preprocessor阶段的插件，解决postcss 后 node-sass soceurmap 丢失的问题
 
 
-###用法
+### 用法
 ```javascript
 fis.match('css/postcss.scss',{
     rExt: '.css', // from .scss to .css
