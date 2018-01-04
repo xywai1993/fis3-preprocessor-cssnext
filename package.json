@@ -1,0 +1,24 @@
+{
+  "name": "fis3-preprocessor-cssnext",
+  "version": "1.0.0",
+  "description": "fis3插件 postcss  cssnext",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "postcss": "^6.0.15",
+    "postcss-cssnext": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xywai1993/fis3-preprocessor-cssnext.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xywai1993/fis3-preprocessor-cssnext/issues"
+  },
+  "homepage": "https://github.com/xywai1993/fis3-preprocessor-cssnext#readme"
+}
