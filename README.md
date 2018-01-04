@@ -16,7 +16,7 @@ fis.match('css/postcss.scss',{
         //配置
          sourceMap: true,    // 默认
         Browserslist:[
-        "> 1%, last 2 versions, Firefox ESR, Opera 12.1"  //默认
+        "> 1%", "last 2 versions", "Firefox ESR", "Opera 12.1"   //默认
         ]
     })
 })

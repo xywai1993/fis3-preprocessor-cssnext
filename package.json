@@ -1,6 +1,6 @@
 {
   "name": "fis3-preprocessor-cssnext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fis3插件 postcss  cssnext",
   "main": "index.js",
   "scripts": {

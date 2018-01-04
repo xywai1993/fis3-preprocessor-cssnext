@@ -16,6 +16,6 @@ module.exports = function(content, file, settings){
 module.exports.defaultOptions = {
     sourceMap: true,
     Browserslist:[
-       "> 1%, last 2 versions, Firefox ESR, Opera 12.1" 
+        "> 1%", "last 2 versions", "Firefox ESR", "Opera 12.1" 
     ]
   };
